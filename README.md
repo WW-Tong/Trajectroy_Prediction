@@ -67,7 +67,7 @@ Version_1.0      	LastUpdated 2022.4.29
 - Trajectory data mining: an overview. \[[paper](https://dl.acm.org/citation.cfm?id=2743025)\]
 - A survey on motion prediction and risk assessment for intelligent vehicles. \[[paper](https://robomechjournal.springeropen.com/articles/10.1186/s40648-014-0001-z)\]
 
-### 具有相互作用的物理系统
+### 具有交互的物理系统
 
 - EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning, NeurIPS 2020. \[[paper](https://arxiv.org/abs/2003.13924)\]
 - Interaction Templates for Multi-Robot Systems, IROS 2019. \[[paper](https://ieeexplore.ieee.org/abstract/document/8737744/)\]
